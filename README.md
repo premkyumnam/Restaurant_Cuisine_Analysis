@@ -14,7 +14,7 @@ To achieve this, I used the following Tools & Technologies:
 5. Counter (Collections): For counting hashable objects, such as frequency analysis.
 6. Jupyter Notebook: As the primary environment for data processing and analysis.
 
-These tools will enable me to effectively extract insights and meaning from the data.
+These tools would enable me to effectively extract insights and meaning from the data.
 
 Results:
 
