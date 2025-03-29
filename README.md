@@ -30,5 +30,5 @@ I identified the top three most common cuisines and calculated the percentage of
    Linkedlin:https://www.linkedin.com/in/yumnam-premkumar-singh-6347a8145/?trk=opento_sprofile_details
    GitHub:https://github.com/premkyumnam/Restaurant_Cuisine_Analysis
    
-   I hope this will be very helpful to evryone.
+   I hope this will be very helpful to every new learners and students.
    Thank you all
