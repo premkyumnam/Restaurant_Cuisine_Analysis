@@ -25,7 +25,8 @@ These tools enabled me to effectively extract insights and meaning from the data
 
 A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.
 
-<h3>Explore the full project on LinkedIn and GitHub.</h3>
+<h4>Explore the full project on LinkedIn and GitHub.
 
 I hope this will be very helpful to new learners and students. Thank you all!
 </p>
+</h4>
