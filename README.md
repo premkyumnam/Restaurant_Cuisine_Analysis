@@ -1,3 +1,4 @@
+<h1> About Project</h1>
 In this project, I analyzed a restaurant dataset to identify food trends. The goal of the first task was to:
 
 1. Identify the top three most common cuisines in the dataset and
