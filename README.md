@@ -14,7 +14,7 @@ To achieve this, I used the following tools and technologies:
 3. Matplotlib: For data visualization, including plots, charts, and graphs.
 4. Seaborn: For statistical data visualization, building on Matplotlib.
 5. Counter (Collections): For counting hashable objects, such as frequency analysis.
-6. Jupyter Notebook: As the primary environment for data processing and analysis.
+6. Jupyter Notebook: As the primary environment for data processing and analysis.<br><br>
 These tools enabled me to effectively extract insights and meaning from the data.
 
 <h1>Results:</h1>
