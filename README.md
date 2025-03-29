@@ -18,7 +18,7 @@ To achieve this, I used the following tools and technologies:
 These tools enabled me to effectively extract insights and meaning from the data.
 
 <h1>Results:</h1>
-<p>I identified the top three most common cuisines and calculated the percentage of restaurants serving each:
+<p>I identified the top three most common cuisines and calculated the percentage of restaurants serving each:<br>
 1. North Indian: 3,960 restaurants (41.50%)<br>
 2. Chinese: 2,735 restaurants (28.66%)<br>
 3. Fast Food: 1,986 restaurants (20.81%)
